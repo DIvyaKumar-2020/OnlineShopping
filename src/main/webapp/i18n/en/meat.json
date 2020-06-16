@@ -1,0 +1,25 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "meat": {
+      "home": {
+        "title": "Meats",
+        "createLabel": "Create a new Meat",
+        "createOrEditLabel": "Create or edit a Meat",
+        "notFound": "No Meats found"
+      },
+      "created": "A new Meat is created with identifier {{ param }}",
+      "updated": "A Meat is updated with identifier {{ param }}",
+      "deleted": "A Meat is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Meat {{ id }}?"
+      },
+      "detail": {
+        "title": "Meat"
+      },
+      "name": "Name",
+      "weight": "Weight",
+      "price": "Price",
+      "image": "Image"
+    }
+  }
+}

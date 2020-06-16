@@ -1,0 +1,25 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "vegetables": {
+      "home": {
+        "title": "Vegetables",
+        "createLabel": "Create a new Vegetables",
+        "createOrEditLabel": "Create or edit a Vegetables",
+        "notFound": "No Vegetables found"
+      },
+      "created": "A new Vegetables is created with identifier {{ param }}",
+      "updated": "A Vegetables is updated with identifier {{ param }}",
+      "deleted": "A Vegetables is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Vegetables {{ id }}?"
+      },
+      "detail": {
+        "title": "Vegetables"
+      },
+      "name": "Name",
+      "weight": "Weight",
+      "price": "Price",
+      "image": "Image"
+    }
+  }
+}
